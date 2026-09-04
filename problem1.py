@@ -12,7 +12,7 @@ print(f"Average:{avg:.2f}")
 if 80<= avg <=100:
     print("Grade:A+")
 elif  70<= avg <=79:
-    print("Grade:A")
+    print("Grade:A")  
 elif 60<= avg <=69:
     print("Grade:B")
 elif 50<= avg <=59:
