@@ -1,6 +1,6 @@
 a= input("enter your name:")
 
-b=input("enter the 1strahum product name:")
+b=input("enter the 1st product name:")
 c=int(input("price:"))
 
 x=input("enter the 2nd product name:")
